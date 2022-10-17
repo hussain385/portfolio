@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Front-End Developer",
+    "company_title": "The Node Team",
+    "start_date": "04/2021",
+    "end-date": "11/2021",
+    "tasks": [
+      "I was deployed previously as a UX/UI Developer in a team that specialized in Front-End Development using ReactJS in Typescript.",
+      "During my tenure working as a part of that team, I have developed a great understanding of a company's business and how it functions.",
+      "I have ample experience in Alpha testing of operational activities of a variety of applications. Likewise, functional optimization of applications is my forte."
+    ]
+  },
+  {
+    "title": "Front-End Developer",
+    "company_title": "Saif Inspiration",
+    "start_date": "04/2021",
+    "end-date": "11/2021",
+    "tasks": [
+      "Lead a team of frontend developers to develop an app for identification of the nearest Mosque using distance formula.",
+      "Developed and delivered a responsive application along with implementation of external libraries such as google maps, react, redux etc. within a challenging deadline.",
+      "Designed UI of an app using figma and collaborated closely with the team to create an effortless UX design for the client."
+    ]
+  },
+  {
+    "title": "Front-End Developer",
+    "company_title": "Venture Haven",
+    "start_date": "04/2021",
+    "end-date": "11/2021",
+    "tasks": [
+      "Deployed as a Developer in a team that specialized in Front-End Development using ReactJS, JavaScript, Redux & APIs."
+    ]
+  }
+]
