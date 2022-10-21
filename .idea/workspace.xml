@@ -5,30 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45549e8b-2d8b-43dc-8ad9-4ebdb7aae550" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/BottomNavbar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Heading.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ListBox.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SubHeading.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Helvetica-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Helvetica-BoldOblique.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Helvetica-Oblique.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Helvetica.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/helvetica-compressed.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/helvetica-light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/helvetica-rounded-bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/experience/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/experience/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/experience/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/header/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/header/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BasicText.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Section.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/certificates/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/certificates/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/education/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/education/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/skills/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/skills/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BottomNavbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BottomNavbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Heading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Heading.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/experience/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/experience/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/experience/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/experience/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/header/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +54,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/laptech/Documents/GitHub/portfolio/public",
+    "last_opened_file_path": "/Users/laptech/Documents/GitHub/portfolio/src/views/certificates",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -74,6 +68,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/views/certificates" />
+      <recent name="$PROJECT_DIR$/src/views/education" />
+      <recent name="$PROJECT_DIR$/src/views/skills" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/src/fonts" />
     </key>
@@ -88,6 +85,7 @@
       <updated>1665513848197</updated>
       <workItem from="1665513850141" duration="1864000" />
       <workItem from="1665829798072" duration="20970000" />
+      <workItem from="1666278937627" duration="7750000" />
     </task>
     <servers />
   </component>

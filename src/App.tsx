@@ -11,16 +11,29 @@ import {Box} from "@mui/material";
 import {Header} from "./views/header";
 import BottomNavbar from "./components/BottomNavbar";
 import {Experience} from "./views/experience";
+import {Skills} from "./views/skills";
+import {Education} from "./views/education";
+import {Certificates} from "./views/certificates";
 
 function App() {
     return (
         <Box style={{paddingBlock: '44px'}}>
             <Header/>
-            <Box>
-                <Experience />
+            <Box style={{display: 'flex'}}>
+                <Box style={{width: '48%', paddingRight: '10%'}}>
+                    <Experience />
+                    <Education />
+                </Box>
+                <Box style={{width: '50%', paddingRight: '50px'}}>
+                    <Skills />
+                    <Certificates />
+                </Box>
             </Box>
             <BottomNavbar />
         </Box>
+        // <div style={{height: '100vh'}}>
+        //     <object width="100%" height="100%" data="http://www.africau.edu/images/default/sample.pdf" type="application/pdf">   </object>
+        // </div>
     );
 }
 

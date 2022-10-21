@@ -41,6 +41,13 @@ export default function BottomNavbar() {
 
     const handleChange = (event: React.SyntheticEvent, newValue: string) => {
         setValue(newValue);
+        const win: Window = window;
+        if(newValue === 'about') {
+            win.scrollTo(0, 0);
+            win.location.hash = ''
+        } else {
+            win.location=`#${newValue}`
+        }
     };
 
     return (

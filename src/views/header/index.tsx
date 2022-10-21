@@ -8,7 +8,7 @@ import {ImLocation2} from 'react-icons/im'
 
 export const Header = () => {
     return (
-        <Box style={{display: 'flex', borderBottom: '1px solid #721d37', marginBottom: '24px', paddingBottom: '28px'}}>
+        <Box id="" style={{display: 'flex', borderBottom: '1px solid #721d37', marginBottom: '24px', paddingBottom: '28px'}}>
             <ListBox main={true}/>
             <Box className='main-container'>
                 <Box style={{width: '53%'}}>

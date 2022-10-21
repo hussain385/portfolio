@@ -1,0 +1,38 @@
+[
+  {
+    "name": "JavaScript",
+    "ratings": 4
+  },
+  {
+    "name": "React Native App Development",
+    "ratings": 4
+  },
+  {
+    "name": "Figma",
+    "ratings": 3
+  },
+  {
+    "name": "Bootstrap 5",
+    "ratings": 4
+  },
+  {
+    "name": "TypeScript",
+    "ratings": 3
+  },
+  {
+    "name": "ReactJS",
+    "ratings": 4
+  },
+  {
+    "name": "Research & Strategy",
+    "ratings": 4
+  },
+  {
+    "name": "NodeJs",
+    "ratings": 3
+  },
+  {
+    "name": "Git & Github",
+    "ratings": 4
+  }
+]
