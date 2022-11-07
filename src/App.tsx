@@ -14,6 +14,7 @@ import {Experience} from "./views/experience";
 import {Skills} from "./views/skills";
 import {Education} from "./views/education";
 import {Certificates} from "./views/certificates";
+import {Projects} from "./views/projects";
 
 function App() {
     return (
@@ -24,8 +25,9 @@ function App() {
                     <Experience />
                     <Education />
                 </Box>
-                <Box style={{width: '50%', paddingRight: '50px'}}>
+                <Box style={{width: '55%', paddingRight: '50px'}}>
                     <Skills />
+                    <Projects />
                     <Certificates />
                 </Box>
             </Box>

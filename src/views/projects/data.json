@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Namaz Timings (Hybrid Mobile App) (09/2020 - 03/2021)",
+    "points": [
+      "Designed a hybrid mobile on Figma.\n(https://www.figma.com/file/ser7KwQnsTZqyUMg763tmj/Masjid- Finder?node-id=0%3A1",
+      "Developed hybrid mobile app using React Native.",
+      "I integrated google maps API.",
+      "https://play.google.com/store/apps/details?id=com.namaztimings"
+    ]
+  },
+  {
+    "title": "E-bike (08/2021 - Present)",
+    "points": [
+      "Google Maps Api integration.",
+      "Powered by firebase.",
+      "Gps tracking system.",
+      "Push notifications."
+    ]
+  },
+  {
+    "title": "Ecommerce Website and Customer App.\n(05/2021 - 08/2021)",
+    "points": [
+      "A grocery eCommerce website that enabled a online grocery\nshopping it is developed using ReactJS in TypeScript. ",
+      "A Customer App developed using react-native had enabled user to\nshop grocery through mobile."
+    ]
+  }
+]

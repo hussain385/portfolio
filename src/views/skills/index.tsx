@@ -24,7 +24,7 @@ export const Skills = () => {
         <div id="skills">
             <Heading word="Skills"/>
             {data.map((value: {name: string, ratings: number}, key: number) => (
-                <Box key={key} style={{display: 'flex', justifyContent: 'space-between', alignItems: 'center'}}>
+                <Box key={key} style={{display: 'flex', justifyContent: 'space-between', alignItems: 'center', paddingLeft: '10px'}}>
                     <BasicText text={value.name}/>
                     <StyledRating
                         name="customized-color"
