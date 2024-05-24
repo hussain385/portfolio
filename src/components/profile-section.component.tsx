@@ -7,9 +7,9 @@ type componentPropType = {
 
 const ProfileSectionComponent = ({ title, children }: componentPropType) => {
     return (
-        <div className="bg-gray-700 p-4 my-4 rounded-lg">
-            <h2 className="text-xl font-semibold text-white mb-2">{title}</h2>
-            <div className="text-gray-300">{children}</div>
+        <div className={'flex flex-col gap-3'}>
+            <h1 className={"border-b border-border-color text-xl font-bold pb-2"}>{title}</h1>
+            <div className="text-gray-300 flex flex-col gap-2">{children}</div>
         </div>
     );
 };
